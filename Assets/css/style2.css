@@ -1,0 +1,88 @@
+
+
+h1 {
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background: #4aaaa5;
+	border-color: #cccccc;
+	line-height: 150%;
+	text-align: center;
+	padding-top: 5pt;
+	padding-bottom: 5pt;
+	padding-left: 10pt;
+	padding-right:10pt;
+}
+body {
+	position: absolute;
+	background-image: url(../images/gaming-pattern.png);
+}
+
+h2 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border: 1px solid black;
+}
+
+img {
+	height: 450px;
+	width: 287px;
+	margin: auto;
+}
+
+.footer {
+	color: #777777;
+	font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+    vertical-align: bottom;
+    padding-bottom: 20px;
+    margin-top: 470px;
+    background: #666666;
+}
+
+.entire-content {
+	width: 960px;
+	height: 520px;
+	border: 2px solid orange;
+	
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.main-content {
+	
+	background: pink;
+}
+
+.panel-heading {
+	color: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 400px;	
+}
+
+.header-area {
+	width: 20%;
+	margin-left: 200px;
+	margin-right: 200px;
+	border: 1px solid blue;
+}
+
+.upper-right {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	border: 1px solid red;
+	
+}
+
+.panel-body {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 30%;
+	float: right;
+	margin-right: 380px;	
+}
+
+.bio-image {
+	float: left;
+}
+
+
